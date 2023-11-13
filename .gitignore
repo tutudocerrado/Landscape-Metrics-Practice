@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Geoespacial tif
+
+.tif
+.tiff
