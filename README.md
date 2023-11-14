@@ -7,12 +7,19 @@ O uso desse repositório requer o download total da pasta, seguido da descompact
 ## Estrutura do repositório
 
 `Apostila`
-*Images/ -- Pasta contendo as imagens mencionadas na apostila
-*Apostila.Rmd -- Apostila em linguagem Rmarkdown
-*Apostila.pdf -- Apostila em formato PDF
+
+-Images/ -- Pasta contendo as imagens mencionadas na apostila
+-Apostila.Rmd -- Apostila em linguagem Rmarkdown
+-Apostila.pdf -- Apostila em formato PDF
+
 `Dados`
-*MAPBIOMAS-EXPORT.zip -- Dados utilizados na parte prática do código em R
+
+-MAPBIOMAS-EXPORT.zip -- Dados utilizados na parte prática do código em R
+
 `R`
-*Landscape-Metrics-Practice.R -- Código em R para a parte prática
+
+-Landscape-Metrics-Practice.R -- Código em R para a parte prática
+
 `Suplementar`
-*landscapemetrics.pdf -- Documento do pacote R que explica as métricas da paisagem
+
+-landscapemetrics.pdf -- Documento do pacote R que explica as métricas da paisagem
